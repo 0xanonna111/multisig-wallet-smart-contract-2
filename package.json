@@ -1,0 +1,6 @@
+{
+  "name": "multisig-wallet",
+  "version": "1.0.0",
+  "description": "Professional Multi-Signature Wallet Smart Contract",
+  "keywords": ["solidity", "blockchain", "multisig", "security"]
+}
